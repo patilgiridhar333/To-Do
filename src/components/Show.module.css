@@ -1,0 +1,14 @@
+.showing{
+    border: 2px solid grey;
+    padding: 5px;
+    padding-left: 2rem;
+    padding-top: 12px;
+    border-radius:5px ;
+    margin-left: -1px;
+}
+.showingg{
+    border: 2px solid grey;
+    padding: 5px;
+   margin-left: -1px;
+    border-radius:5px ;
+}
